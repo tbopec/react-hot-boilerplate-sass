@@ -22,7 +22,7 @@ var config = {
     devtool: 'source-map',
     hot: true,        //Live-reload
     inline: true,
-    port: 3001        //Port Number
+    port: 3000        //Port Number
   },
   devtool: 'source-map',
   output: {
